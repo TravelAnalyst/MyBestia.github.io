@@ -1,0 +1,161 @@
+
+body {
+    font-family: "Montserrat";
+}
+
+#title {
+    background-color: #ff4c68;
+}
+
+.header {
+    font-family: "Ubuntu";
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color:white;
+    font-weight: bolder;
+    padding-bottom: 4.5rem;
+    
+
+}
+
+.container {
+    padding: 3% 15%;
+    padding-bottom: 1px;
+}
+
+head {
+    font-family: "Montserrat"; 
+}
+
+
+
+.navbar {
+    padding-bottom: 0 0 50px;
+}
+
+.navbar-brand {
+    font-family: "Sofia", sans-serif;
+    font-size: 8.5rem;
+    text-shadow: 3px 3px 3px #ababab;
+    font-weight: bold;
+    padding-bottom: 11.5rem;
+}
+
+.col-lg-6 {
+    padding-top: 6.5rem;
+
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Ubuntu";
+}
+
+
+.title-image {
+    width: 60%;
+    transform: rotate(20deg);
+    position: relative;
+}
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+#features {
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+h3 {
+    font-family: "Ubuntu";
+}
+
+p {
+    color: #8f8f8f;
+}
+.check {
+    padding: 5%;
+}
+
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ff4c68;
+    color: white;
+
+}
+
+.carousel-item {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ff4c68;
+    color: white;
+}
+
+.bestia {
+    font-family: "Ubuntu";
+    font-size: 3rem;
+    line-height: 1.5;
+    padding: 5%;
+}
+
+.bowtie {
+    width: 20%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.testimonial-image {
+    width: 20%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.testimonial-text {
+    font-family: "Ubuntu";
+    font-size: 3rem;
+    line-height: 1.5;
+    padding: 5%;
+}
+
+#press {
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+#pricing {
+    background-color:white;
+    padding: 100px;
+    text-align: center;
+    
+}
+
+#footer {
+    background-color: #ff4c68;
+    padding-bottom: 20px;
+    font-size: large;
+    color: #fff;
+}
+
+.cright {
+    color: #fff;
+    text-align: center;
+    font: "Ubunty";
+}
